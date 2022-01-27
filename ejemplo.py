@@ -3,3 +3,6 @@ import time
 
 import pandas
 #segundo coment
+
+import numpy
+#tercer comentario
